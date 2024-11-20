@@ -1,4 +1,4 @@
-# crud-php-pdo-2024
+
 <h1>Crud PDO, PHP y MySql, utilizando funciones y con Bootstrap 5.3</h1>
 <img src="preview.jpg" alt="CRUD PHP" style="max-width: 100%; height: auto;">
 
